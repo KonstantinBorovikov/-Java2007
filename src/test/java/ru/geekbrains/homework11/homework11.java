@@ -1,3 +1,5 @@
+package ru.geekbrains.homework11;
+
 public class homework11 {
     public static void main(String[] args) {
         printThreeWords();
@@ -9,9 +11,9 @@ public class homework11 {
     private static void compareNumbers() {
         int c = 15;
         int d = 12;
-        if (c >= d);
+        if (c >= d) ;
         System.out.println("c >= d");
-        if (c < d);
+        if (c < d) ;
         System.out.println("c < d");
     }
 
